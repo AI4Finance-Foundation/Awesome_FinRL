@@ -1,6 +1,8 @@
-# Awesome_RL
-A collection of RL resources by the AI4Finance Foundation
+# Awesome_FinRL
 
-## Contents
-   
-   It lists the main resources (PDF or websites) in the RL area. It can guide newcomers into RL. 
+
+
+## Survey papers
+  
+  [1] Hambly, B., Xu, R. and Yang, H., 2021. Recent advances in reinforcement learning in finance. [arXiv paper](https://arxiv.org/abs/2112.04553).
+  
